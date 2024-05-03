@@ -3,6 +3,6 @@
 
 #include "c-header.h"
 
-#include <string>
+#include <string.h>
 
 #endif//SON8_C_STRING_H
