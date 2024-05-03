@@ -1,7 +1,7 @@
 #ifndef SON8_C_MATH_H
 #define SON8_C_MATH_H
 
-#include "c-header.h"
+#include "header.h"
 
 #include <complex.h>
 #include <fenv.h>
